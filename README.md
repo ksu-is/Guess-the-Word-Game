@@ -32,3 +32,5 @@ https://www.teachwithict.com/guess.html
 https://www.educative.io/answers/how-to-create-a-word-guessing-game-in-python
 
 https://www.geeksforgeeks.org/python-program-for-word-guessing-game/amp/
+
+**Note: The first two links are the tutorials I primarily pulled inspiration from.**
