@@ -14,4 +14,9 @@ Run the code and check for errors. If there are errors, assess and fix them. Onc
 **DONE -> Note: It took me several tries to get the code running correctly, since the way I combined the elements from the different turtorials wasn't, at first, correct. It took me several rounds of trial and error for me to figure out where to store the many variables since I had several def statements and also a loop. After I figured out that part and the code was working properly, I also edited the code to change the look of the game stylisticly, as in the spacing between lines and such.**
 
 # Task 4:
+Create a powerpoint slide pitching my project idea, including a tagline and screenshots of my code and how the game looks when played. 
+
+**DONE**
+
+# Task 5:
 I need to make sure to update my README.md and projectroadmap.md files as I go to keep track of my progress.
