@@ -7,11 +7,8 @@ The program will first ask for the player’s name and welcome them to the game 
 # Getting Started
 Visual Studio Code and the most recent version of Python are needed.
 
-# Installing
-Add how/where to download the program
-
 # Executing Program
-Add how to run the program
+Execute the program by using Visual Studio Code and running the Python file in a dedicated terminal.
 
 # Help
 The Guess the Word game pulls a random word from a text file that can be updated and changes made to. If the game is played repeatedly the words pulled might get repetitive. If this were to happen, the text file containing the word list must be edited and expanded to include more words.
